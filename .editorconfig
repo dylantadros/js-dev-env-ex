@@ -1,4 +1,6 @@
 # editorconfig.org
+# Note: not all editors support editorconfig out of the box
+# Be sure to install the necessary plugin for compatibality with your editor.
 
 root = true
 
